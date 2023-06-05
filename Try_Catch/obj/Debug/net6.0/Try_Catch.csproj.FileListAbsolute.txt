@@ -1,0 +1,15 @@
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\bin\Debug\net6.0\Try_Catch.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\bin\Debug\net6.0\Try_Catch.deps.json
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\bin\Debug\net6.0\Try_Catch.runtimeconfig.json
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\bin\Debug\net6.0\Try_Catch.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\bin\Debug\net6.0\Try_Catch.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.csproj.AssemblyReference.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfoInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfo.cs
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\refint\Try_Catch.dll
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\Try_Catch.genruntimeconfig.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Try_Catch\Try_Catch\obj\Debug\net6.0\ref\Try_Catch.dll
